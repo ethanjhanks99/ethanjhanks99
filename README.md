@@ -1,7 +1,14 @@
 - 👋 Hi, I’m @ethanjhanks99
-- 👀 I’m interested in anything tech and the outdoors!
-- 🌱 I’m currently a student at Utah State University.
-- 💞️ I’m looking to collaborate on anything that will challenge me and force me to learn something new and develop new skills!
+
+**Education:**
+- 🌱 I’m currently pursuing my Bachelors in Computer Science at Utah State University.
+- 🎓 Beginning my Master of Computer Science in Fall 2026.
+
+**Focus:**
+- 🍃 Working on a self hosted language called Drift
+- 👨🏻‍💻 Stack: C/C++, Java, Python
+
+**Personal:**
 - 📫 How to reach me: Email-ethanjhanks99@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started out as a music major, and now am on computer science.
