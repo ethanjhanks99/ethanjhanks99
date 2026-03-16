@@ -5,7 +5,7 @@
 - 🎓 Beginning my Master of Computer Science in Fall 2026.
 
 **Focus:**
-- 🍃 Working on a self hosted language called Drift
+- 🍃 Working on a systems language called Drift
 - 👨🏻‍💻 Stack: C/C++, Java, Python
 
 **Personal:**
